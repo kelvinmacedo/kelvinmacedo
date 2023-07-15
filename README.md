@@ -12,7 +12,8 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Laravel" height="30" width="40" 
+src="https://logospng.org/wp-content/uploads/laravel.png">
   <img align="center" alt="Java" height="40" width="48" src="https://user-images.githubusercontent.com/92284776/165651177-5fe0933a-94cf-42f5-a02e-2aa4612692e6.svg">
 
   </div>
