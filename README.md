@@ -1,5 +1,14 @@
 ### Olá! eu sou Kelvin Marques.
 
+Técnico em desenvolvimento de sistemas.
+
+Analista de Software JR.
+
+Casado e pai do pequeno Gael.
+
+Tranformando codigos em soluções.
+
+
 <div align="center">
   
   <a href="https://github.com/kelvinmacedo">
