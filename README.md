@@ -1,12 +1,12 @@
 ### Olá! eu sou Kelvin Marques.
 
-  *Técnico em desenvolvimento de sistemas.
+  * Técnico em desenvolvimento de sistemas.
 
-  *Analista de Software JR.
+  * Analista de Software JR.
 
-  *Casado e pai do pequeno Gael.
+  * Casado e pai do pequeno Gael.
 
-  *Tranformando codigos em soluções.
+  * Tranformando codigos em soluções.
 
 
 <div align="center">
