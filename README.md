@@ -2,7 +2,7 @@
 
   * Técnico em desenvolvimento de sistemas.
 
-  * Analista de Software JR na Empresa ShowTecnologia.
+  * Analista de Software Jr na Empresa ShowTecnologia.
 
   * Casado e pai do pequeno Gael.
 
