@@ -1,6 +1,6 @@
 ### Olá! eu sou Kelvin Marques.
 
-  * Técnico em desenvolvimento de sistemas.
+  * Desenvolvedor Web.
 
   * Analista de Software Jr na Empresa ShowTecnologia.
 
