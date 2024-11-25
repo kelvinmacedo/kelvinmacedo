@@ -1,6 +1,6 @@
 ### Olá! eu sou Kelvin Marques.
 
-  * Desenvolvedor Web.
+  * Desenvolvedor back-End.
 
   * Analista de Software Jr na Empresa ShowTecnologia.
 
