@@ -27,7 +27,7 @@ Desenvolvedor de software com foco em backend e aplicações web, atuando no des
 
 ### Backend
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="40"/>
+  <img src="https://nestjs.com/logo-small-gradient.0ed287ce.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
 </div>
 
