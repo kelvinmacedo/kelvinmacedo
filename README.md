@@ -2,20 +2,6 @@
 
 Desenvolvedor de software com foco em backend e aplicações web, atuando no desenvolvimento, manutenção e evolução de sistemas corporativos. Experiência com APIs, regras de negócio, integrações e boas práticas de código.
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=kelvinmacedo&show_icons=true&theme=blue-green&hide_border=true" />
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinmacedo&layout=compact&theme=blue-green&hide_border=true" />
-
-</div>
-
----
-
 ## 🧠 Tecnologias e Ferramentas
 
 ### Backend
@@ -77,12 +63,4 @@ Desenvolvedor de software com foco em backend e aplicações web, atuando no des
 </a>
 
 </div>
-
----
-
-## 📌 Observações Técnicas
-
-- Estatísticas geradas via **GitHub Readme Stats**
-- Dados sujeitos a cache e rate limit da API do GitHub
-- Commits privados não são contabilizados sem token próprio
 
