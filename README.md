@@ -18,15 +18,11 @@ Desenvolvedor de software com foco em backend e aplicações web, atuando no des
 
 ## 🧠 Tecnologias e Ferramentas
 
-### Linguagens
+### Backend
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-</div>
-
-### Backend
-<div>
   <img src="https://nestjs.com/logo-small-gradient.0ed287ce.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
 </div>
